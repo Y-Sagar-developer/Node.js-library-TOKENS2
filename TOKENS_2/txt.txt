@@ -1,0 +1,46 @@
+{
+  "name": "karthik",
+  "email": "karthik@gmail.com",
+  "password": "password123",
+  "role": "developer"
+}
+
+
+{
+  "username": "karthik",
+  "password": "password123"
+}
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoia2FydGhpayIsInJvbGUiOiJkZXZlbG9wZXIiLCJpYXQiOjE3NDA0ODM4NTJ9.hYmiKWTlllUO4tA9km8ymSiP5l7foV2B9YeLxtWkIaE
+
+
+
+
+
+
+kumar
+
+{
+    "message": "User registered successfully",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDA1MDExMjN9.mDA34wRjSQQhY2tbLUQmejmkwzXs4TQgGav4wMau9YY"
+}
+
+
+
+
+fullstack
+
+     eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiZnVsbHN0YWNrIiwiaWF0IjoxNzQwNTQzMzM1fQ.Ze7nYvf7sWtI7MWb_PZ7_WIywexiBL1pMOfH7K9_Mdc
+
+admin
+
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhZ2FyQGdtYWlsLmNvbSIsInJvbGUiOiJhZG1pbiIsImlhdCI6MTc0MDU0Mzk3OH0.tvL6EvxB0MOfIaHowpgIyJAASTJL-VUzH9PA6x5CU9I
+
+frontend
+
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InByYWRlZXBAZ21haWwuY29tIiwicm9sZSI6ImZyb250ZW5kIiwiaWF0IjoxNzQwNTQ0MDQyfQ.NQuRTvggRyb8H_FKeLxJWB5S1vqkc_WJEHIDPFPp1zQ
+
+    backend
+
+    eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InNhaUBnbWFpbC5jb20iLCJyb2xlIjoiYmFja2VuZCIsImlhdCI6MTc0MDU0NDExNn0._POMLFnfazdO5IzC5dNCI9RZhwWxGh7QHGzr1kcCVtg
